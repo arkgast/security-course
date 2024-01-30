@@ -8,6 +8,8 @@
 
     $ forge test --mt <testName>
 
+    $ forge install OpenZeppelin/openzeppelin-contracts --no-commit
+
 # Concepts
 
 ## Flash loan attack
